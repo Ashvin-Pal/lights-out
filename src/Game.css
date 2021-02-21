@@ -1,0 +1,17 @@
+.Game {
+    -webkit-box-shadow: 0px 0px 50px 5px #1041ff;
+    box-shadow: 0px 0px 50px 5px #1041ff;
+    border-radius: 4px;
+}
+
+button {
+    margin-top: 2em;
+    padding: 12px;
+    width: 100%;
+    font-size: 1em;
+    font-weight: 600;
+    font-stretch: expanded;
+    border-radius: 0.5em;
+    background-color: #1041ff;
+    color: #151515;
+}
